@@ -25,7 +25,6 @@ While working on this project, I improved my understanding of:
 
 ### Useful resources
 
-- [MDN Web Docs - Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_Concepts_of_Flexbox) - Helped me position and space the content.
 - [CSS Tricks - Centering in CSS](https://css-tricks.com/centering-css-complete-guide/) - Very helpful for centering the card and its content.
 - [DevChallenges.io](https://devchallenges.io/)
 
